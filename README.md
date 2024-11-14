@@ -19,4 +19,12 @@ Data Processing Wizardry: Hands-on experience with Excel and CSV integrations—
 Custom APIs and Reporting: Designed robust APIs for financial reporting and automated calculations for payouts, incentives, and monthly summaries
 🌱 I’m passionate about solving real-world problems with code and continuously honing my skills in new tech. Whether it’s through innovative data handling or crafting APIs that make data accessible and actionable, I'm driven to build tools that empower.
 
-🚀 Let’s connect! I’m always open to collaborating on impactful projects or contributing to open-source.
+## Tech Stack 
+<img src="https://img.shields.io/badge/Node.js-8CC84B?style=flat&logo=node.js&logoColor=white" alt="Node.js" />
+<img src="https://img.shields.io/badge/MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" />
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black" alt="C" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
+
