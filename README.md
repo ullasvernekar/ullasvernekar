@@ -19,13 +19,32 @@ Data Processing Wizardry: Hands-on experience with Excel and CSV integrations—
 Custom APIs and Reporting: Designed robust APIs for financial reporting and automated calculations for payouts, incentives, and monthly summaries
 🌱 I’m passionate about solving real-world problems with code and continuously honing my skills in new tech. Whether it’s through innovative data handling or crafting APIs that make data accessible and actionable, I'm driven to build tools that empower.
 
-## Tech Stack 
-<img src="https://img.shields.io/badge/Node.js-8CC84B?style=flat&logo=node.js&logoColor=white" alt="Node.js" style="display:inline-block; margin-right:10px; width:60px; height:60px;" />
-<img src="https://img.shields.io/badge/MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" style="display:inline-block; margin-right:10px; width:70px; height:70px;" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" style="display:inline-block; margin-right:10px; width:80px; height:80px;" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" style="display:inline-block; margin-right:10px; width:50px; height:50px;" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" style="display:inline-block; margin-right:10px; width:75px; height:75px;" />
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black" alt="C" style="display:inline-block; margin-right:10px; width:55px; height:55px;" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" style="display:inline-block; margin-right:10px; width:90px; height:90px;" />
+### :hammer_and_wrench: Tech Stack
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+  <br>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R"/>
+  <img src="https://img.shields.io/badge/Nodemon-76D04B?style=for-the-badge&logo=nodemon&logoColor=white" alt="Nodemon"/>
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
+</p>
+
+
+
+
+
+
+
+
+
+
 
 
