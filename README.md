@@ -1,10 +1,11 @@
-Hi there 👋, I'm Ullas!
-##👨‍💻 About Me
+# Hi there 👋, I'm Ullas!
+
+## 👨‍💻 About Me
 💻 Passionate about backend development and problem-solving.
 ♟️ I love playing chess in my free time.
 🌱 Currently learning Node.js and building full-stack apps with MongoDB.
 
-##🚀 What I’m Working On
+## 🚀 What I’m Working On
 Exploring backend development and creating APIs.
 Contributing to open-source projects.
 
