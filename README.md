@@ -42,7 +42,9 @@ Custom APIs and Reporting: Designed robust APIs for financial reporting and auto
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure"/>
   <img src="https://img.shields.io/badge/Cloud-808080?style=for-the-badge&logo=cloud&logoColor=white" alt="Cloud"/>
   <img src="https://img.shields.io/badge/Virtual%20Machine-0078D4?style=for-the-badge&logo=virtualbox&logoColor=white" alt="Virtual Machine"/>
+  <img src="https://img.shields.io/badge/Phone%20OS%20Modification-1A73E8?style=for-the-badge&logo=android&logoColor=white" alt="Phone OS Modification"/>
 </p>
+
 
 
 
