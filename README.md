@@ -2,14 +2,15 @@
 
 ## 👨‍💻 About Me
 💻 Passionate about backend development and problem-solving.
-♟️ I love playing chess in my free time.
+
+I'm a Java & Spring Developer with a knack for crafting clean, efficient backend solutions that make complex workflows seamless.
+Building data-driven applications, focusing on Spring Boot, JPA and Hibernate to create powerful APIs and intuitive data management systems.
+
 🌱 Currently learning Node.js and building full-stack apps with MongoDB.
 
 ## 🚀 What I’m Working On
 Exploring backend development and creating APIs.
 Contributing to open-source projects.
-
-👋 Hi there! I'm a Java & Spring Developer with a knack for crafting clean, efficient backend solutions that make complex workflows seamless. I specialize in building data-driven applications, focusing on Spring Boot, JPA, and Hibernate to create powerful APIs and intuitive data management systems.
 
 💡 What I bring to the table:
 
