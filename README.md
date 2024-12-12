@@ -1,29 +1,40 @@
-Hi there 👋, I'm Ullas!
-👨‍💻 About Me
-💻 Enthusiastic about creating innovative backend solutions and tackling complex problems.
+# Hi there 👋, I'm **Ullas!**
 
-I'm a Java & Spring Developer, proficient in Node.js, with a knack for crafting clean, efficient backend systems that simplify workflows.
-I specialize in building data-driven applications using:
+## 👨‍💻 About Me  
+💻 **Enthusiastic about creating innovative backend solutions and tackling complex problems.**  
 
-Spring Boot
-JPA & Hibernate
-Node.js
-MongoDB
-💡 Passion for creating powerful APIs and seamless data management systems.
+I'm a **Java & Spring Developer**, proficient in **Node.js**, with a knack for crafting **clean, efficient backend systems** that simplify workflows.  
 
-🚀 What I’m Working On
-Exploring backend development and creating APIs.
-Building small-scale real-world projects.
-💡 What I Bring to the Table:
-Backend Architecture:
-Expertise in structuring scalable, maintainable code and implementing sophisticated database relationships with JPA & MongoDB.
-Data Processing Wizardry:
-Hands-on experience with Excel and CSV integrations—from importing driver and salary data to generating dynamic reports on the fly.
-Custom APIs and Reporting:
-Designed robust APIs for financial reporting and automated calculations for payouts, incentives, and monthly summaries.
-🌱 Passionate About:
-Solving real-world problems with code and continuously honing my skills in new tech.
-Whether it’s through innovative data handling or crafting APIs that make data accessible and actionable, I'm driven to build tools that empower.
+I specialize in building **data-driven applications** using:  
+- **Spring Boot**  
+- **JPA & Hibernate**  
+- **Node.js**  
+- **MongoDB**  
+
+💡 **Passionate about creating powerful APIs and seamless data management systems.**
+
+---
+
+## 🚀 What I’m Working On  
+- Exploring **backend development** and creating **APIs**.  
+- Building small-scale **real-world projects**.  
+
+---
+
+### 💡 What I Bring to the Table  
+- **Backend Architecture:**  
+  Expertise in structuring scalable, maintainable code and implementing sophisticated database relationships with **JPA & MongoDB**.  
+- **Data Processing Wizardry:**  
+  Hands-on experience with **Excel and CSV integrations**—from importing driver and salary data to generating dynamic reports on the fly.  
+- **Custom APIs and Reporting:**  
+  Designed robust APIs for **financial reporting** and automated calculations for **payouts, incentives, and monthly summaries**.  
+
+---
+
+### 🌱 Passionate About  
+**Solving real-world problems with code** and continuously honing my skills in new tech.  
+Whether it’s through innovative **data handling** or crafting **APIs** that make data accessible and actionable, I'm driven to build tools that **empower**.  
+
 
 ### :hammer_and_wrench: Tech Stack
 <p align="left">
