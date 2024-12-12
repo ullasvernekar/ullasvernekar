@@ -3,7 +3,7 @@
 ## 👨‍💻 About Me  
 💻 **Enthusiastic about creating innovative backend solutions and tackling complex problems.**  
 
-I'm a **Java & Spring Developer**, proficient in **Node.js**, with a knack for crafting **clean, efficient backend systems** that simplify workflows.  
+I'm a **Java & Spring Developer**, proficient in **Node.js**, with a knack for crafting <br> **clean, efficient backend systems** that simplify workflows.  
 
 I specialize in building **data-driven applications** using,<br> **Spring Boot** **JPA & Hibernate** **Node.js** **MongoDB**  <br><br>
 
@@ -29,7 +29,7 @@ I specialize in building **data-driven applications** using,<br> **Spring Boot**
 
 ### 🌱 Passionate About  
 **Solving real-world problems with code** and continuously honing my skills in new tech.  
-Whether it’s through innovative **data handling** or crafting **APIs** that make data accessible and actionable, I'm driven to build tools that **empower**.  
+Whether it’s through innovative **data handling** or crafting **APIs** that make data accessible and actionable,<br> I'm driven to build tools that **empower**.  
 
 
 ### :hammer_and_wrench: Tech Stack
