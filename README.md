@@ -2,12 +2,7 @@
 
 ## 👨‍💻 About Me  
 I’m a passionate **Backend Developer** with a strong foundation in building scalable, high-performance systems.  
-With expertise in **Java**, **Spring Boot**, and **Node.js**, I focus on crafting robust backend architectures that support real-time data handling, improve operational efficiency, and create seamless experiences for end-users.
-
-**I specialize in:**
-- Building **data-driven applications**  
-- Designing **efficient APIs**  
-- Implementing complex **database systems** with **JPA**, **Hibernate**, and **MongoDB**  
+With expertise in **Java**, **Spring Boot**, and **Node.js**, I focus on crafting robust backend architectures that support real-time data handling, improve operational efficiency, and create seamless experiences for end-users. 
 
 💡 I'm driven by the challenge of solving complex problems through technology and continuously improving my skills in backend architecture, data handling, and performance optimization.
 
