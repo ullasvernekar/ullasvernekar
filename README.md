@@ -40,9 +40,7 @@ Custom APIs and Reporting: Designed robust APIs for financial reporting and auto
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
   <img src="https://img.shields.io/badge/RESTful%20API-005571?style=for-the-badge&logo=api&logoColor=white" alt="RESTful API"/>
   <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" alt="Spring Security"/>
-  <img src="https://img.shields.io/badge/OAuth2-3D91F2?style=for-the-badge&logo=oauth&logoColor=white" alt="OAuth2"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React.js"/>
-  <img src="https://img.shields.io/badge/Responsive%20Design-0D98BA?style=for-the-badge&logo=responsiveweb&logoColor=white" alt="Responsive Web Design"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/Azure%20NoSQL-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure Cloud NoSQL"/>
   <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white" alt="SQL"/>
@@ -54,8 +52,6 @@ Custom APIs and Reporting: Designed robust APIs for financial reporting and auto
   <img src="https://img.shields.io/badge/Virtual%20Machines-000000?style=for-the-badge&logo=vmware&logoColor=white" alt="Virtual Machines"/>
   <img src="https://img.shields.io/badge/Networking-FF6F00?style=for-the-badge&logo=network&logoColor=white" alt="Networking"/>
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger"/>
-  <img src="https://img.shields.io/badge/Unit%20Testing-000000?style=for-the-badge&logo=testinglibrary&logoColor=white" alt="Unit Testing"/>
-  <img src="https://img.shields.io/badge/Integration%20Testing-6DB33F?style=for-the-badge&logo=test&logoColor=white" alt="Integration Testing"/>
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
   <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA"/>
   <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven"/>
