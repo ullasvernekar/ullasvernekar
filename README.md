@@ -1,37 +1,48 @@
-## Hi there 👋, I'm **Ullas!**
+# Hello, I'm **Ullas** 👋
 
 ## 👨‍💻 About Me  
-💻 **Enthusiastic about creating innovative backend solutions and tackling complex problems.**  
+I’m a passionate **Backend Developer** with a strong foundation in building scalable, high-performance systems.  
+With expertise in **Java**, **Spring Boot**, and **Node.js**, I focus on crafting robust backend architectures that support real-time data handling, improve operational efficiency, and create seamless experiences for end-users.
 
-I'm a **Java & Spring Developer**, proficient in **Node.js**, with a knack for crafting <br> **clean, efficient backend systems** that simplify workflows.  
+I specialize in:
+- Building **data-driven applications**  
+- Designing **efficient APIs**  
+- Implementing complex **database systems** with **JPA**, **Hibernate**, and **MongoDB**  
 
-I specialize in building **data-driven applications** using,<br> **Spring Boot** **JPA & Hibernate** **Node.js** **MongoDB**  <br><br>
-
-💡 **Passionate about creating powerful APIs and seamless data management systems.**
+💡 I'm driven by the challenge of solving complex problems through technology and continuously improving my skills in backend architecture, data handling, and performance optimization.
 
 ---
 
 ## 🚀 What I’m Working On  
-- Exploring **backend development** and creating **APIs**.  
-- Building small-scale **real-world projects**.  
+- Developing **RESTful APIs** and **microservices** for large-scale applications  
+- Optimizing **data processing pipelines** to handle **millions of records** efficiently  
+- Exploring the integration of **cloud technologies** and **containerization** for more scalable solutions  
 
 ---
 
-### 💡 What I Bring to the Table  
-- **Backend Architecture:**  
-  Expertise in structuring scalable, maintainable code and implementing sophisticated database relationships with **JPA & MongoDB**.  
-- **Data Processing Wizardry:**  
-  Hands-on experience with **Excel and CSV integrations**—from importing driver and salary data to generating dynamic reports on the fly.  
-- **Custom APIs and Reporting:**  
-  Designed robust APIs for **financial reporting** and automated calculations for **payouts, incentives, and monthly summaries**.  
+### 💡 Core Strengths  
+- **Backend Architecture & Performance**:  
+  Designed and optimized systems handling **millions of transactions** per day. Focused on scalability, maintainability, and code quality.  
+
+- **Advanced Data Management**:  
+  Experience in building **highly efficient databases** and complex queries for **big data** applications. Developed solutions that improve processing time by over **40%**.  
+
+- **API Design & Integration**:  
+  Built **REST APIs** for e-commerce, financial systems, and reporting tools, improving data accessibility and reducing response times by **30%**.  
+
+- **Cloud & DevOps**:  
+  Integrated cloud services (AWS, Azure) into backend systems, improving system reliability and deployment speed. Implemented CI/CD pipelines to enhance development cycles.
 
 ---
 
 ### 🌱 Passionate About  
-**Solving real-world problems with code** and continuously honing my skills in new tech.  
-Whether it’s through innovative **data handling** or crafting **APIs** that make data accessible and actionable,<br> I'm driven to build tools that **empower**.  
+I thrive on building **highly scalable backend systems** that can handle substantial traffic while maintaining reliability and performance.  
+With a deep interest in **cloud infrastructure**, **microservices architecture**, and **automation**, I'm always excited to explore and implement new technologies to streamline workflows and improve system efficiency.
 
+---
 
+Let’s connect and build something great! 🔗
+ 
 ### :hammer_and_wrench: Tech Stack
 <p align="left">
 
