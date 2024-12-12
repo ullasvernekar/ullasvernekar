@@ -14,24 +14,30 @@ I specialize in:
 ---
 
 ## 🚀 What I’m Working On  
-- Developing **RESTful APIs** and **microservices** for large-scale applications  
-- Optimizing **data processing pipelines** to handle **millions of records** efficiently  
-- Exploring the integration of **cloud technologies** and **containerization** for more scalable solutions  
+- Developing **RESTful APIs** for large-scale applications
+- Exploring New Efficient ways of Creating **API's** 
+- Optimizing **data processing** to handle **hundreds of records** efficiently  
 
 ---
 
 ### 💡 Core Strengths  
-- **Backend Architecture & Performance**:  
-  Designed and optimized systems handling **millions of transactions** per day. Focused on scalability, maintainability, and code quality.  
+- **Backend Development**:  
+  Solid experience in building robust backend systems using **Java**, **Spring Boot**, and **Node.js**. I focus on creating maintainable and scalable code that integrates smoothly with front-end systems. 
 
-- **Advanced Data Management**:  
-  Experience in building **highly efficient databases** and complex queries for **big data** applications. Developed solutions that improve processing time by over **40%**.  
+- **Database Design & Management**:  
+  Proficient in working with **SQL** and **NoSQL** databases (e.g., **MongoDB**, **MySQL**), I’ve designed database schemas and optimized queries for performance. Hands-on experience with **JPA** for managing complex data relationships and improving query efficiency.
 
-- **API Design & Integration**:  
-  Built **REST APIs** for e-commerce, financial systems, and reporting tools, improving data accessibility and reducing response times by **30%**.  
+- **API Design & Development**:  
+  Developed clean and well-documented **REST APIs** to streamline communication between services. Ensured APIs are secure, performant, and easy to use by focusing on principles.
 
-- **Cloud & DevOps**:  
-  Integrated cloud services (AWS, Azure) into backend systems, improving system reliability and deployment speed. Implemented CI/CD pipelines to enhance development cycles.
+- **Data Integration & Automation**:  
+  Integrated **Excel**, **CSV**, and other file formats into backend workflows, automating data import/export processes and reducing manual effort by **40%**. Developed scripts to automatically process and analyze large datasets, ensuring consistency and accuracy.
+
+- **Problem Solving & Optimization**:  
+  Passionate about identifying performance bottlenecks and optimizing backend systems. Have successfully optimized APIs and database queries to improve response times by **30%**, ensuring better user experience and resource efficiency.
+
+- **Version Control & Collaboration**:  
+  Experienced with **Git** for version control, and proficient in using collaborative development tools like **GitHub** and **GitLab**. Familiar with working in **Agile** environments, collaborating with cross-functional teams, and delivering projects on time.
 
 ---
 
