@@ -9,6 +9,7 @@ I'm a Java & Spring Developer, proficient in Node.js, with a knack for crafting 
 Exploring backend development and creating APIs.
 Building small scale Real World projects.
 
+
 💡 What I bring to the table:
 
 Backend Architecture: Expertise in structuring scalable, maintainable code and implementing sophisticated database relationships with JPA & MongoDB
