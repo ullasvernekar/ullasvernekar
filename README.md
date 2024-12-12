@@ -20,7 +20,13 @@ With expertise in **Java**, **Spring Boot**, and **Node.js**, I focus on craftin
 
 ---
 
-### :hammer_and_wrench: Tech Stack
+## 🌱 Passionate About  
+I thrive on building **highly scalable backend systems** that can handle substantial traffic while maintaining reliability and performance.  
+With a deep interest in **cloud infrastructure**, **microservices architecture**, and **automation**, I'm always excited to explore and implement new technologies to streamline workflows and improve system efficiency.
+
+---
+
+## :hammer_and_wrench: Tech Stack
 <p align="left">
  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
@@ -66,14 +72,6 @@ With expertise in **Java**, **Spring Boot**, and **Node.js**, I focus on craftin
   <img src="https://img.shields.io/badge/Hoppscotch-0A9396?style=for-the-badge&logo=hoppscotch&logoColor=white" alt="Hoppscotch"/>
   <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" alt="VirtualBox"/>
 </p>
-
----
-
-### 🌱 Passionate About  
-I thrive on building **highly scalable backend systems** that can handle substantial traffic while maintaining reliability and performance.  
-With a deep interest in **cloud infrastructure**, **microservices architecture**, and **automation**, I'm always excited to explore and implement new technologies to streamline workflows and improve system efficiency.
-
----
  
 
 
