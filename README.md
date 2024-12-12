@@ -20,39 +20,9 @@ With expertise in **Java**, **Spring Boot**, and **Node.js**, I focus on craftin
 
 ---
 
-### 💡 Core Strengths  
-- **Backend Development**:  
-  Solid experience in building robust backend systems using **Java**, **Spring Boot**, and **Node.js**. I focus on creating maintainable and scalable code that integrates smoothly with front-end systems. 
-
-- **Database Design & Management**:  
-  Proficient in working with **SQL** and **NoSQL** databases (e.g., **MongoDB**, **MySQL**), I’ve designed database schemas and optimized queries for performance. Hands-on experience with **JPA** for managing complex data relationships and improving query efficiency.
-
-- **API Design & Development**:  
-  Developed clean and well-documented **REST APIs** to streamline communication between services. Ensured APIs are secure, performant, and easy to use by focusing on principles.
-
-- **Data Integration & Automation**:  
-  Integrated **Excel**, **CSV**, and other file formats into backend workflows, automating data import/export processes and reducing manual effort by **40%**. Developed scripts to automatically process and analyze large datasets, ensuring consistency and accuracy.
-
-- **Problem Solving & Optimization**:  
-  Passionate about identifying performance bottlenecks and optimizing backend systems. Have successfully optimized APIs and database queries to improve response times by **30%**, ensuring better user experience and resource efficiency.
-
-- **Version Control & Collaboration**:  
-  Experienced with **Git** for version control, and proficient in using collaborative development tools like **GitHub** and **GitLab**. Familiar with working in **Agile** environments, collaborating with cross-functional teams, and delivering projects on time.
-
----
-
-### 🌱 Passionate About  
-I thrive on building **highly scalable backend systems** that can handle substantial traffic while maintaining reliability and performance.  
-With a deep interest in **cloud infrastructure**, **microservices architecture**, and **automation**, I'm always excited to explore and implement new technologies to streamline workflows and improve system efficiency.
-
----
-
-Let’s connect and build something great! 🔗
- 
 ### :hammer_and_wrench: Tech Stack
 <p align="left">
-
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/>
+ <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -95,13 +65,37 @@ Let’s connect and build something great! 🔗
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
   <img src="https://img.shields.io/badge/Hoppscotch-0A9396?style=for-the-badge&logo=hoppscotch&logoColor=white" alt="Hoppscotch"/>
   <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" alt="VirtualBox"/>
-
-
-
-
-
-
 </p>
+
+---
+
+### 💡 Core Strengths  
+- **Backend Development**:  
+  Solid experience in building robust backend systems using **Java**, **Spring Boot**, and **Node.js**. I focus on creating maintainable and scalable code that integrates smoothly with front-end systems. 
+
+- **Database Design & Management**:  
+  Proficient in working with **SQL** and **NoSQL** databases (e.g., **MongoDB**, **MySQL**), I’ve designed database schemas and optimized queries for performance. Hands-on experience with **JPA** for managing complex data relationships and improving query efficiency.
+
+- **API Design & Development**:  
+  Developed clean and well-documented **REST APIs** to streamline communication between services. Ensured APIs are secure, performant, and easy to use by focusing on principles.
+
+- **Data Integration & Automation**:  
+  Integrated **Excel**, **CSV**, and other file formats into backend workflows, automating data import/export processes and reducing manual effort by **40%**. Developed scripts to automatically process and analyze large datasets, ensuring consistency and accuracy.
+
+- **Problem Solving & Optimization**:  
+  Passionate about identifying performance bottlenecks and optimizing backend systems. Have successfully optimized APIs and database queries to improve response times by **30%**, ensuring better user experience and resource efficiency.
+
+- **Version Control & Collaboration**:  
+  Experienced with **Git** for version control, and proficient in using collaborative development tools like **GitHub** and **GitLab**. Familiar with working in **Agile** environments, collaborating with cross-functional teams, and delivering projects on time.
+
+---
+
+### 🌱 Passionate About  
+I thrive on building **highly scalable backend systems** that can handle substantial traffic while maintaining reliability and performance.  
+With a deep interest in **cloud infrastructure**, **microservices architecture**, and **automation**, I'm always excited to explore and implement new technologies to streamline workflows and improve system efficiency.
+
+---
+ 
 
 
 
