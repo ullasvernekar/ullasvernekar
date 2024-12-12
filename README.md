@@ -5,7 +5,7 @@
 
 I'm a **Java & Spring Developer**, proficient in **Node.js**, with a knack for crafting **clean, efficient backend systems** that simplify workflows.  
 
-I specialize in building **data-driven applications** using: **Spring Boot** **JPA & Hibernate** **Node.js** **MongoDB**  
+I specialize in building **data-driven applications** using,<br> **Spring Boot** **JPA & Hibernate** **Node.js** **MongoDB**  <br><br>
 
 💡 **Passionate about creating powerful APIs and seamless data management systems.**
 
