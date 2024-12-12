@@ -1,20 +1,17 @@
 # Hi there 👋, I'm Ullas!
 
 ## 👨‍💻 About Me
-💻 Passionate about backend development and problem-solving.
+💻 Enthusiastic about creating innovative backend solutions and tackling complex problems.
 
-I'm a Java & Spring Developer with a knack for crafting clean, efficient backend solutions that make complex workflows seamless.
-Building data-driven applications, focusing on Spring Boot, JPA and Hibernate to create powerful APIs and intuitive data management systems.
-
-🌱 Currently learning Node.js and building full-stack apps with MongoDB.
+I'm a Java & Spring Developer, proficient in Node.js, with a knack for crafting clean, efficient backend systems that simplify workflows. I specialize in building data-driven applications using Spring Boot, JPA, Hibernate, Node.js, and MongoDB, creating powerful APIs and seamless data management systems.
 
 ## 🚀 What I’m Working On
 Exploring backend development and creating APIs.
-Contributing to open-source projects.
+Building small scale projects.
 
 💡 What I bring to the table:
 
-Backend Architecture: Expertise in structuring scalable, maintainable code and implementing sophisticated database relationships with JPA
+Backend Architecture: Expertise in structuring scalable, maintainable code and implementing sophisticated database relationships with JPA & MongoDB
 Data Processing Wizardry: Hands-on experience with Excel and CSV integrations—from importing driver and salary data to generating dynamic reports on the fly
 Custom APIs and Reporting: Designed robust APIs for financial reporting and automated calculations for payouts, incentives, and monthly summaries
 🌱 I’m passionate about solving real-world problems with code and continuously honing my skills in new tech. Whether it’s through innovative data handling or crafting APIs that make data accessible and actionable, I'm driven to build tools that empower.
@@ -64,6 +61,10 @@ Custom APIs and Reporting: Designed robust APIs for financial reporting and auto
   <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" alt="Mongoose"/>
   <img src="https://img.shields.io/badge/HTTPS-005FF9?style=for-the-badge&logo=letsencrypt&logoColor=white" alt="HTTPS"/>
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Hoppscotch-0A9396?style=for-the-badge&logo=hoppscotch&logoColor=white" alt="Hoppscotch"/>
+  <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" alt="VirtualBox"/>
+
+
 
 
 
