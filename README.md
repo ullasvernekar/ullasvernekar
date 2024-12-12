@@ -66,7 +66,13 @@ Custom APIs and Reporting: Designed robust APIs for financial reporting and auto
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
 
 
-  ![Profile Views](https://komarev.com/ghpvc/?username=ullas23&color=blue&style=flat-square)
+  ![Ullas's GitHub stats](https://github-readme-stats.vercel.app/api?username=ullas23&show_icons=true&theme=radical)
+
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ullas23&layout=compact&theme=radical)
+  
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=ullas23&theme=radical)](https://git.io/streak-stats)
+
+
 
 
 </p>
