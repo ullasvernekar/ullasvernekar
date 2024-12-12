@@ -7,6 +7,7 @@ I'm a Java & Spring Developer, proficient in Node.js, with a knack for crafting 
 
 ## 🚀 What I’m Working On
 Exploring backend development and creating APIs.
+
 Building small scale projects.
 
 💡 What I bring to the table:
